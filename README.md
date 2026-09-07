@@ -15,7 +15,7 @@ The architecture consists of:
 - EFS mount targets in multiple Availability Zones
 - Security Groups controlling SSH and NFS traffic
 - NFS protocol for communication between EC2 and EFS
-![EFS Architecture](efs-architecture.png.png)
+![EFS Architecture](efs-architecture.png)
 ## AWS Services Used
 
 - Amazon EC2
